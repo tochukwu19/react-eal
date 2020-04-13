@@ -1,0 +1,22 @@
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: crimson;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    height: 60px;
+}
+
+.list{
+    display: flex;
+}
+
+.list li{
+    list-style-type: none;
+    color: beige;
+    padding: 15px;
+}
